@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+  <rect width="880" height="150" rx="14" fill="#141414"/>
+  <rect x="0" y="0" width="8" height="150" fill="#ff7a18"/>
+  <text x="36" y="52" font-family="'Segoe UI', Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff">AIZU-CLI</text>
+  <text x="36" y="84" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-style="italic" fill="#ffb347">An AI agent that lives in your terminal.</text>
+  <text x="36" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#d4d4d4">Chat, edit files, run tools, remember context &#8212; right from Termux.</text>
+  <text x="36" y="136" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#8a8a8a">Python &#183; Termux &#183; Open source (MIT)</text>
+</svg>

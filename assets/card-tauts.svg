@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+  <rect width="880" height="150" rx="14" fill="#141414"/>
+  <rect x="0" y="0" width="8" height="150" fill="#ff7a18"/>
+  <text x="36" y="52" font-family="'Segoe UI', Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff">tauts.id</text>
+  <text x="36" y="84" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-style="italic" fill="#ffb347">One link for everything you create.</text>
+  <text x="36" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#d4d4d4">A link-in-bio platform for Indonesian creators &#8212; storefronts, analytics, tiers.</text>
+  <text x="36" y="136" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#8a8a8a">PHP &#183; MySQL &#183; Live at tauts.id</text>
+</svg>

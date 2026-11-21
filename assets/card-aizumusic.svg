@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+  <rect width="880" height="150" rx="14" fill="#141414"/>
+  <rect x="0" y="0" width="8" height="150" fill="#ff7a18"/>
+  <text x="36" y="52" font-family="'Segoe UI', Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff">AizuMusic</text>
+  <text x="36" y="84" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-style="italic" fill="#ffb347">My music server, as a real native Android app.</text>
+  <text x="36" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#d4d4d4">Background playback, lyrics, playlists syncing both ways with the web player.</text>
+  <text x="36" y="136" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#8a8a8a">Kotlin &#183; Jetpack Compose &#183; Media3 &#183; music.aaizu.id</text>
+</svg>

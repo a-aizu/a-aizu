@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0a0a"/>
+      <stop offset="1" stop-color="#1f1f1f"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7a18"/>
+      <stop offset="1" stop-color="#ffb347"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="220" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="880" height="6" fill="url(#acc)"/>
+  <text x="48" y="98" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff">A <tspan fill="url(#acc)">Aizu</tspan></text>
+  <text x="50" y="140" font-family="'Segoe UI', Arial, sans-serif" font-size="24" fill="#e5e5e5">Web Developer (PHP/MySQL) &#183; Linux Server Admin</text>
+  <text x="50" y="176" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#a3a3a3">Building in public &#8212; every project below is live, and growing in the open.</text>
+</svg>
