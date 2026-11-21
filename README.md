@@ -18,8 +18,8 @@ I build and run web apps solo, end to end: code, database, server, deployment.
 - [AIZU-CLI](https://github.com/ardhanaaizu/AIZU-CLI) — CLI AI agent for Termux
 
 ### 📊 GitHub Stats
-![A Aizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardhanaaizu&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhanaaizu&layout=compact&theme=radical)
+![A Aizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-aizu&show_icons=true&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-aizu&layout=compact&theme=radical)
 
 ### 📫 Reach me
 - Email: ardhana.aizu@gmail.com
